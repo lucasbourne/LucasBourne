@@ -1,6 +1,10 @@
 👋 Hi, I’m @LucasBourne
 
-Putting my knowledge of Flutter and DevOps practices to good use on a regular basis
+🐤 Junior Flutter Developer based in Hull, UK.
+
+🎓 Former MEng Computer Science w/ Software Engineering student and DevOps Engineer
+
+☁ AWS Certified Cloud Practitioner since October 2020
 
 <!---
 LucasBourne/LucasBourne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
