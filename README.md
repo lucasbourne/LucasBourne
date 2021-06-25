@@ -2,7 +2,7 @@
 
 🐤 Junior Flutter Developer based in Hull, UK 🐤
 
-🎓 Former MEng Computer Science w/ Software Engineering Student and DevOps Engineer 🎓
+🎓 MEng Computer Science w/ Software Engineering Graduate and DevOps Engineer 🎓
 
 ☁ AWS Certified Cloud Practitioner since October 2020 ☁
 
