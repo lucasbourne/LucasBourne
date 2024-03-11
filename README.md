@@ -2,9 +2,7 @@
 
 🐤 Flutter Developer based in Hull, UK 🐤
 
-🎓 MEng Computer Science w/ Software Engineering Graduate and DevOps Engineer 🎓
-
-☁ AWS Certified Cloud Practitioner since October 2020 ☁
+☁ AWS Certified Cloud Practitioner 2020-2023 ☁
 
 <!---
 LucasBourne/LucasBourne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
