@@ -2,7 +2,7 @@
 
 🐤 Flutter Developer based in Hull, UK 🐤
 
-☁ AWS Certified Cloud Practitioner 2020-2023 ☁
+☁ AWS Certified Cloud Practitioner 2020-2023, 2025-2028 ☁
 
 [![Lucas' Github Stats](https://github-readme-stats.vercel.app/api?username=LucasBourne&count_private=true&theme=transparent&show_icons=true&rank_icon=percentile&line_height=24)](https://github.com/LucasBourne)
 
